@@ -20,6 +20,7 @@
     [CCBaseModel postWithUrlString:@"" parameters:nil isCache:YES complish:^(id responseObject, NSError *error) {
         if (![[CCNetworkClass shared] hasNetwork]) {
             //没有网络
+            //test
         }
     }];
 }
