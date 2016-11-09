@@ -1,0 +1,14 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+
+target 'ShouCheShenQi' do
+    pod 'SDWebImage'
+    pod 'MJRefresh'
+    pod 'AFNetworking'
+    pod 'Reachability'
+    pod 'MJExtension'
+    pod 'Masonry'
+    pod 'MBProgressHUD'
+    pod 'YYCache'
+    pod 'JPush'
+end

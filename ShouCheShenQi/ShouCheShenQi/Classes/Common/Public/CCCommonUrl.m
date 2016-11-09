@@ -1,0 +1,15 @@
+//
+//  CCCommonUrl.m
+//  ShouCheShenQi
+//
+//  Created by mac on 2016/11/4.
+//  Copyright © 2016年 淵 Zhuge. All rights reserved.
+//
+
+#import "CCCommonUrl.h"
+
+@implementation CCCommonUrl
+
+NSString *const HostIp = @"";
+
+@end
